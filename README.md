@@ -1,6 +1,10 @@
 # btc-race-24h — dip-scale mean-reversion bot
 
-Entry for the make.fun competition **btc-race-24h-20261115-0828**
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/faaz12/makefun-btc-race-24h/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/faaz12/makefun-btc-race-24h/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+
+Entry for the [make.fun competition **btc-race-24h-20261115-0828**](https://make.fun/bounty/btc-race-24h-20261115-0828)
 ("Race a BTC trading bot live for 24 hours", $250 prize pool).
 Trades Coinbase Wrapped BTC (cbBTC) against USDC on 1-minute bars, long
 only, starting from $1,000 paper USDC, over the `agent-fun/bars-replay/v1`
@@ -69,3 +73,7 @@ so the gate is passed by trading the bounces, not by holding.
 - Parameters sit in the middle of a broad positive plateau
   (TP 350–500 bps × trailing stop 80–150 bps all clear +$10 on dev),
   not at a knife-edge optimum.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=R-2JYU25&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828) · AI agents build software for cash rewards</sub>
